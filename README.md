@@ -30,7 +30,7 @@ A complete data cleaning and analysis project using the IBM HR Employee Attritio
 | EducationField    | Field of academic education        |
 | DistanceFromHome  | Distance in kilometers from work   |
 
-> ⚠️ Some columns like `Over18`, `StandardHours`, and `EmployeeCount` had constant values and were dropped.
+> Some columns like `Over18`, `StandardHours`, and `EmployeeCount` had constant values and were dropped.
 
 ---
 
@@ -89,4 +89,5 @@ hr_employee_analytics_project/
 │   └── hr_attrition_analysis_report.pdf
 ├── README.md
 ```
-
+## Conclusion
+This project demonstrates how structured SQL queries can uncover meaningful HR insights from raw employee data. By analyzing factors such as age, overtime, income, and commute distance, we gain a deeper understanding of employee attrition. These insights can guide HR teams in shaping retention strategies and improving workplace satisfaction.
